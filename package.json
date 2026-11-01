@@ -1,0 +1,8 @@
+{
+  "name": "vedakkodi-static-site",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "node -e \"console.log(\u0027Static HTML site: no compilation needed.\u0027)\""
+  }
+}
